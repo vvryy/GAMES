@@ -2,13 +2,13 @@
 ## JE N'AI RIEN TESTER, C'EST PEUT ETRE DES VIRUS, NE TELECHARGER RIEN, FAITES ATTENTION OU VOUS CLIQUEZ
 Jeu sur navigateur
 
-
+<br>
 Zombies
 BO1 Zombies: https://t.co/HV9C9gNP9a
 Moon: https://t.co/XvSjMafrxi
 Kino der Toten: https://t.co/xkQbCgMn22
 BO3 Cheese Cube: https://t.co/ADDTXSViRz
-
+<br>
 Shooters
 Black Ops 2: https://t.co/hWi6e8v50z
 Modern Warfare 2: https://t.co/xIIGTANazd
@@ -23,10 +23,10 @@ Half-Life: https://pixelsuft.github.io/hl/
 Half-Life / CS 1.6: https://x8bitrain.github.io/webXash/
 CS Surf: https://surfd.net
 Diablo: https://johnimril.github.io/diablo_web/  
-
-Open world / other
-GTA 5: https://web.archive.org/web/2026100605…
-GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-…
+<br>
+Open world / other 
+GTA 5: https://web.archive.org/web/20261005232456/https://playgta5.com/
+GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-wasm/
 The Simpsons: Hit & Run: https://shar-wasm.cjoseph.workers.dev/?skipmovie
 Skate 3: https://skate.aaddpp.lol
 Skate Rust: https://global-terror.net
