@@ -3,4 +3,35 @@
 Jeu sur navigateur
 
 
+Zombies
+BO1 Zombies: https://t.co/HV9C9gNP9a
+Moon: https://t.co/XvSjMafrxi
+Kino der Toten: https://t.co/xkQbCgMn22
+BO3 Cheese Cube: https://t.co/ADDTXSViRz
+
+Shooters
+Black Ops 2: https://t.co/hWi6e8v50z
+Modern Warfare 2: https://t.co/xIIGTANazd
+Halo CE: https://mitchellhynes.com/halo
+Halo CE mobile: https://hcemobile.com
+Quake 1: https://q1.pieter.com
+Quake 2: https://q2.pieter.com
+Quake 3: https://q3.pieter.com
+Return to Castle Wolfenstein: https://rtcw.pieter.com
+Unreal Tournament: https://ut.pieter.com
+Half-Life: https://pixelsuft.github.io/hl/
+Half-Life / CS 1.6: https://x8bitrain.github.io/webXash/
+CS Surf: https://surfd.net
+Diablo: https://johnimril.github.io/diablo_web/  
+
+Open world / other
+GTA 5: https://web.archive.org/web/2026100605…
+GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-…
+The Simpsons: Hit & Run: https://shar-wasm.cjoseph.workers.dev/?skipmovie
+Skate 3: https://skate.aaddpp.lol
+Skate Rust: https://global-terror.net
+PES 6: https://pes6.optijuegos.net
+Hedgewars: https://webwars.link
+More GTA / Minecraft: https://wasmarcade.com
+
 
