@@ -2,9 +2,7 @@
 ## JE N'AI RIEN TESTER, C'EST PEUT ETRE DES VIRUS, NE TELECHARGER RIEN, FAITES ATTENTION OU VOUS CLIQUEZ
 Jeu sur navigateur
 
-<br>
-
-Zombies
+### Zombies
 BO1 Zombies: https://t.co/HV9C9gNP9a
 
 Moon: https://t.co/XvSjMafrxi
@@ -12,9 +10,9 @@ Moon: https://t.co/XvSjMafrxi
 Kino der Toten: https://t.co/xkQbCgMn22
 
 BO3 Cheese Cube: https://t.co/ADDTXSViRz
-<br>
 
-Shooters
+
+### Shooters
 Black Ops 2: https://t.co/hWi6e8v50z
 
 Modern Warfare 2: https://t.co/xIIGTANazd
@@ -41,9 +39,8 @@ CS Surf: https://surfd.net
 
 Diablo: https://johnimril.github.io/diablo_web/  
 
-<br>
 
-Open world / other 
+### Open world / other 
 GTA 5: https://web.archive.org/web/20261005232456/https://playgta5.com/
 
 GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-wasm/
